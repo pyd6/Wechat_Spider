@@ -1,2 +1,2 @@
 # Weichat_Spider
-grap some related information and submmit to weichat
+grap some related information and submmit to wechat
